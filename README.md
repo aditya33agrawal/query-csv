@@ -10,3 +10,6 @@
 6. Upload your file and ask questions.
 7. To draw bar or line graph use the following template:
    Create a bar graph between X and Y. Make Y as columns and X as data values.
+
+Reference video:
+"https://drive.google.com/file/d/1VEuyDrxF6X55gEv6_XX2OYUfcw7qYiKp/view?usp=sharing"
