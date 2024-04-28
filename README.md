@@ -4,7 +4,7 @@
 ``` pip install -r requirements.txt ```
 
 2. Create a ".env" file mentioning 'OPENAI_API_KEY'.
-3. change to src directory.
+3. Change to src directory.
 4. Run ``` streamlit run app.py ```
 5. Open the link mentioned in the terminal.
 6. Upload your file and ask questions.
