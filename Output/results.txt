@@ -1,0 +1,29 @@
+All these results are produced over the sales data sample csv file present inside data folder.
+
+What is the mean, mode and median of QUANTITYORDERED?
+The mean of QUANTITYORDERED is 35.09280906836698
+The mode of QUANTITYORDERED is 34
+The median of QUANTITYORDERED is 35.0
+
+What is the average SALES value?
+The average SALES value is 3553.889071909316
+
+What is the standard deviation of SALES?
+The standard deviation of SALES is 1841.87
+
+Find the correlation coefficient between PRICEEACH and SALES.
+The correlation coefficient between PRICEEACH and SALES is 0.6578409283176877
+
+Find the correlation coefficient between sales and price each.
+The correlation coefficient between sales and price each is 0.6578409283176877
+
+Find the correlation coefficient between QUANTITYORDERED and DEALSIZE.
+The correlation coefficient between QUANTITYORDERED and DEALSIZE is 0.4764.
+
+Find the standard deviation of DEALSIZE.
+The standard deviation of SALES is 1841.87
+
+For producing graph:
+
+Create a bar graph between SALES and PRODUCTLINE. Make PRODUCTLINE  as columns and SALES as data values.
+Create a line graph between SALES and PRODUCTLINE. Make PRODUCTLINE  as columns and SALES as data values.
